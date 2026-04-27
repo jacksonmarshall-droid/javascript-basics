@@ -11,10 +11,9 @@ let price2 = 5.00
 let item3 = "buttery Maine Lobster" 
 let price3 = 30.00
 let item4 = "white rice with Beef,lobster,lettuse"
-let price = 35.00
 
 // order for fries and lobster
-price = price3 + price2
-console.log(price)
+cost = price3 + price2
+console.log(funds>=cost)
 // 35.00 
 // funds 20.00
